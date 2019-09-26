@@ -567,4 +567,3 @@ videojs.dom = Dom;
 videojs.url = Url;
 
 export default videojs;
-
